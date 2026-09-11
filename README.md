@@ -8,14 +8,14 @@ I enjoy taking an idea from **data collection → processing → analysis → AI
 
 ---
 
-## 🚀 What I'm Working On
 
-* 🤖 Building practical AI-powered applications
-* 📊 Exploring Data Analysis, EDA and data visualization
-* 🧠 Strengthening Machine Learning and NLP concepts
-* ⚙️ Building workflow automations using n8n
-* 💻 Improving problem-solving and DSA skills
-* 🔍 Exploring Generative AI and AI Agents
+## 📚 Currently Working on
+
+* Building practical AI-powered applications
+* Improving problem-solving and DSA skills
+* Exploring Data Analysis, EDA and data visualization
+* End-to-End Data Pipelines
+* Building workflow automations using n8n
 
 ---
 
@@ -75,13 +75,4 @@ An AI/ML-based project focused on mutual fund analysis, with separate frontend a
 
 ---
 
-## 📚 Currently Working
-
-* NLP & Generative AI
-* Data Structures & Algorithms
-* Building production-ready projects
-* End-to-End Data Pipelines
-* AI Agents & Workflow Automation
-  
----
 ⭐ Feel free to explore my repositories and connect with me!
